@@ -85,33 +85,33 @@ section {
 
 .handwriting {
     font-family: "Caveat", cursive;
-    font-size: 32px;
+    font-size: 45px;
     line-height: 1.25;
     color: var(--cream);
 }
 
 .handwriting.big {
-    font-size: 44px;
+    font-size: 45px;
 }
 
 .handwriting.medium {
-    font-size: 31px;
+    font-size: 45px;
 }
 
 .handwriting.small {
-    font-size: 22px;
+    font-size: 45px;
 }
 
 .tiny-note {
     font-family: "Caveat", cursive;
-    font-size: 18px;
+    font-size: 45px;
     color: #aaa08c;
     letter-spacing: 1px;
 }
 
 .huge-handwriting {
     font-family: "Caveat", cursive;
-    font-size: clamp(60px, 9vw, 110px);
+    font-size: 45px;
     line-height: 0.8;
     font-weight: 600;
     color: var(--cream);
@@ -152,7 +152,7 @@ section {
     justify-content: center;
 
     font-family: "Special Elite", monospace;
-    font-size: 36px;
+    font-size: 45px;
 
     box-shadow: 2px 3px 0 rgba(0,0,0,0.7);
 
@@ -189,7 +189,7 @@ section {
 .banner.second span {
     width: 49px;
     height: 61px;
-    font-size: 30px;
+    font-size: 45px;
 }
 
 .tiny-note {
@@ -260,7 +260,7 @@ section {
 
 .nicknames span {
     font-family: "Caveat", cursive;
-    font-size: 25px;
+    font-size: 45px;
     color: #d7cdb7;
 
     transform: rotate(-2deg);
@@ -280,7 +280,7 @@ section {
 
 .tiny-hearts {
     color: #b96b6b;
-    font-size: 27px;
+    font-size: 45px;
     margin-top: 20px;
 }
 
@@ -303,7 +303,7 @@ section {
     display: inline-block;
 
     font-family: "Caveat", cursive;
-    font-size: 36px;
+    font-size: 45px;
 
     border-bottom: 2px solid #c8bda6;
 
@@ -363,7 +363,7 @@ section {
     left: 15px;
 
     font-family: "Caveat", cursive;
-    font-size: 22px;
+    font-size: 45px;
 
     color: #27211d;
 }
@@ -449,7 +449,7 @@ section {
     top: 380px;
 
     color: #b65c65;
-    font-size: 65px;
+    font-size: 45px;
 
     transform: rotate(10deg);
 }
@@ -458,7 +458,7 @@ section {
     bottom: 20px;
     left: 49%;
 
-    font-size: 50px;
+    font-size: 45px;
     color: #cbbd9c;
 }
 
@@ -501,14 +501,14 @@ section {
 
 .location strong {
     font-family: "Special Elite", monospace;
-    font-size: 20px;
+    font-size: 45px;
     color: var(--cream);
 }
 
 .location small {
     font-family: "Caveat", cursive;
     color: #9d9584;
-    font-size: 21px;
+    font-size: 45px;
 }
 
 .pin {
@@ -525,11 +525,11 @@ section {
     justify-content: space-around;
 
     color: #b77b7b;
-    font-size: 20px;
+    font-size: 45px;
 }
 
 .distance-text {
-    font-size: 35px;
+    font-size: 45px;
 }
 
 
@@ -554,7 +554,7 @@ section {
 .letter-label {
     font-family: "Special Elite", monospace;
 
-    font-size: 14px;
+    font-size: 45px;
 
     color: #9b907d;
 
@@ -640,7 +640,7 @@ section {
     justify-content: center;
     align-items: center;
 
-    font-size: 40px;
+    font-size: 45px;
 
     box-shadow: 0 4px 12px rgba(0,0,0,0.5);
 
@@ -658,7 +658,7 @@ section {
 
     font-family: "Caveat", cursive;
 
-    font-size: 23px;
+    font-size: 45px;
 
     color: #aaa08c;
 }
@@ -698,7 +698,7 @@ section {
 .letter-paper h2 {
     font-family: "Caveat", cursive;
 
-    font-size: 34px;
+    font-size: 45px;
 
     text-align: center;
 
@@ -710,7 +710,7 @@ section {
 .letter-content {
     font-family: "Caveat", cursive;
 
-    font-size: 23px;
+    font-size: 45px;
 
     line-height: 1.25;
 }
@@ -727,19 +727,19 @@ section {
 
     color: #a4545b;
 
-    font-size: 35px;
+    font-size: 45px;
 }
 
 .signature {
     margin-top: 25px;
 
-    font-size: 27px;
+    font-size: 45px;
 
     text-align: right;
 }
 
 .signature span {
-    font-size: 35px;
+    font-size: 45px;
 }
 
 .envelope.open .envelope-front {
@@ -793,7 +793,7 @@ section {
 .flower-doodles {
     color: #b58d75;
 
-    font-size: 35px;
+    font-size: 45px;
 
     margin-bottom: 20px;
 }
@@ -801,7 +801,7 @@ section {
 .gift-paper h2 {
     font-family: "Caveat", cursive;
 
-    font-size: 46px;
+    font-size: 45px;
 
     color: var(--cream);
 
@@ -818,7 +818,7 @@ section {
 .flower {
     position: absolute;
 
-    font-size: 65px;
+    font-size: 45px;
 
     filter: drop-shadow(0 5px 5px rgba(0,0,0,0.5));
 
@@ -885,7 +885,7 @@ section {
     left: 40%;
     top: 110px;
 
-    font-size: 100px;
+    font-size: 45px;
 
     transform: rotate(-10deg);
 }
@@ -913,7 +913,7 @@ section {
 
     font-family: "Special Elite", monospace;
 
-    font-size: 13px;
+    font-size: 45px;
 
     letter-spacing: 1px;
 
@@ -956,14 +956,14 @@ section {
 }
 
 .box-doodle {
-    font-size: 40px;
+    font-size: 45px;
     margin-bottom: 15px;
 }
 
 .box-card h2 {
     font-family: "Caveat", cursive;
 
-    font-size: 55px;
+    font-size: 45px;
 
     color: var(--cream);
 }
@@ -1021,7 +1021,7 @@ section {
 
     font-family: "Special Elite", monospace;
 
-    font-size: 13px;
+    font-size: 45px;
 }
 
 .box-ribbon {
@@ -1046,7 +1046,7 @@ section {
     align-items: center;
     justify-content: center;
 
-    font-size: 65px;
+    font-size: 45px;
 }
 
 .secret-box.open .box-lid {
@@ -1054,7 +1054,7 @@ section {
 }
 
 .box-text {
-    font-size: 32px;
+    font-size: 45px;
 
     margin: 7px 0;
 }
@@ -1062,7 +1062,7 @@ section {
 .secret-message {
     font-family: "Caveat", cursive;
 
-    font-size: 25px;
+    font-size: 45px;
 
     color: #b87878;
 
@@ -1136,7 +1136,7 @@ section {
 
     margin: 55px auto 25px;
 
-    font-size: 32px;
+    font-size: 45px;
 }
 
 .final-nicknames {
@@ -1144,13 +1144,13 @@ section {
 
     color: #a79e8b;
 
-    font-size: 21px;
+    font-size: 45px;
 
     margin-top: 25px;
 }
 
 .final-hearts {
-    font-size: 30px;
+    font-size: 45px;
 
     color: #a95359;
 
@@ -1213,7 +1213,7 @@ section {
 
     color: white;
 
-    font-size: 50px;
+    font-size: 45px;
 
     cursor: pointer;
 
@@ -1234,7 +1234,7 @@ section {
 
     color: rgba(190,120,120,0.5);
 
-    font-size: 50px;
+    font-size: 45px;
 
     animation: floatDoodle 5s ease-in-out infinite;
 }
@@ -1290,7 +1290,7 @@ section {
 
     z-index: 2000;
 
-    font-size: 25px;
+    font-size: 45px;
 
     opacity: 0;
 
@@ -1330,17 +1330,17 @@ section {
     .banner span {
         width: 39px;
         height: 52px;
-        font-size: 24px;
+        font-size: 45px;
     }
 
     .banner.second span {
         width: 34px;
         height: 46px;
-        font-size: 20px;
+        font-size: 45px;
     }
 
     .handwriting.big {
-        font-size: 36px;
+        font-size: 45px;
     }
 
     .nicknames {
@@ -1348,7 +1348,7 @@ section {
     }
 
     .nicknames span {
-        font-size: 21px;
+        font-size: 45px;
     }
 
     .photo-section {
@@ -1417,7 +1417,7 @@ section {
     }
 
     .distance-text {
-        font-size: 28px;
+        font-size: 45px;
     }
 
     .letter-section {
@@ -1438,11 +1438,11 @@ section {
     }
 
     .letter-paper h2 {
-        font-size: 27px;
+        font-size: 45px;
     }
 
     .letter-content {
-        font-size: 23px;
+        font-size: 45px;
     }
 
     .gift-paper {
@@ -1450,7 +1450,7 @@ section {
     }
 
     .gift-paper h2 {
-        font-size: 38px;
+        font-size: 45px;
     }
 
     .final-section {
@@ -1461,11 +1461,11 @@ section {
     }
 
     .huge-handwriting {
-        font-size: 65px;
+        font-size: 45px;
     }
 
     .final-message {
-        font-size: 27px;
+        font-size: 45px;
     }
 
     .final-nicknames {
